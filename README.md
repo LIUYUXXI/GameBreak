@@ -12,3 +12,12 @@ Computer Graphics Game Project
 4. AI///范4.20
 
 5. 武器建模
+
+## 链接
+[Git团队协作使用规范](https://blog.csdn.net/u011077672/article/details/78819324)
+
+## 模型资源地址
+- 游戏蛮牛
+- 52素材
+- 6m5m
+- unity官网
