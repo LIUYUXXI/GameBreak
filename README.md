@@ -14,7 +14,7 @@ Computer Graphics Game Project
 5. 武器建模
 
 ## 链接
-[Git团队协作使用规范](https://blog.csdn.net/u011077672/article/details/78819324)
+[Git团队协作使用规范](https://blog.csdn.net/u011077672/article/details/78819324)  
 [Unity3d第一人称射击游戏项目实战](https://www.bilibili.com/video/av37116509?from=search&seid=13139258492896819105)
 
 ## 模型资源地址
