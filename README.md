@@ -33,14 +33,11 @@ logo
 看传送门视频提取设计元素
     
 ## 链接
-[Git团队协作使用规范](https://blog.csdn.net/u011077672/article/details/78819324)
-
-[Unity3d第一人称射击游戏项目实战](https://www.bilibili.com/video/av37116509?from=search&seid=13139258492896819105)
-
-[微元素(素材网)](https://www.element3ds.com/)
-
-[github上fork原项目，如何将本地仓库代码更新到最新版本？](https://www.cnblogs.com/eyunhua/p/8463200.html)
-
+[Git团队协作使用规范](https://blog.csdn.net/u011077672/article/details/78819324)  
+[Unity3d第一人称射击游戏项目实战](https://www.bilibili.com/video/av37116509?from=search&seid=13139258492896819105)  
+[微元素(素材网)](https://www.element3ds.com/)  
+[github上fork原项目，如何将本地仓库代码更新到最新版本？](https://www.cnblogs.com/eyunhua/p/8463200.html)  
+[git命令学习](https://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5)  
 ## 模型资源地址
 - **Unity-Resources-Particle Pack** *有爆炸, 火焰, 火箭等*
 - 游戏蛮牛
