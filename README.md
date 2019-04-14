@@ -1,7 +1,7 @@
 # GameBreak
 Computer Graphics Game Project
 
-~~1. 需要一个人物建模。动作脚本，多找几个。
+~~1. 需要一个人物建模。动作脚本，多找几个。~~
 
 2. Unity底层设计/张，黄，刘 4.14见面
 
