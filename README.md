@@ -1,5 +1,5 @@
-# GameBreak
-Computer Graphics Game Project
+# GameBreak 
+*Computer Graphics Game Project*
 
 ~~1. 需要一个人物建模。动作脚本，多找几个。~~
 
